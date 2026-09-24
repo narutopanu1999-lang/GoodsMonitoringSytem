@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+  <rect width="1000" height="560" fill="#f8f9fa"/>
+  <text x="500" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#212529">Chocolate Factory</text>
+  <text x="500" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#6c757d">Welcome to my Shop</text>
+  <rect x="60" y="125" width="880" height="130" rx="8" fill="#ffffff" stroke="#dee2e6"/>
+  <text x="85" y="160" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#212529">Add New Item</text>
+  <text x="85" y="195" font-family="Arial, sans-serif" font-size="14" fill="#495057">Candy Name</text>
+  <text x="290" y="195" font-family="Arial, sans-serif" font-size="14" fill="#495057">Description</text>
+  <text x="535" y="195" font-family="Arial, sans-serif" font-size="14" fill="#495057">Price</text>
+  <text x="685" y="195" font-family="Arial, sans-serif" font-size="14" fill="#495057">Quantity</text>
+  <rect x="85" y="205" width="180" height="34" rx="4" fill="#ffffff" stroke="#adb5bd"/>
+  <rect x="290" y="205" width="220" height="34" rx="4" fill="#ffffff" stroke="#adb5bd"/>
+  <rect x="535" y="205" width="110" height="34" rx="4" fill="#ffffff" stroke="#adb5bd"/>
+  <rect x="685" y="205" width="110" height="34" rx="4" fill="#ffffff" stroke="#adb5bd"/>
+  <rect x="815" y="205" width="100" height="34" rx="4" fill="#212529"/>
+  <text x="865" y="227" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">Add Item</text>
+  <text x="60" y="305" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#212529">Inventory</text>
+  <rect x="60" y="325" width="880" height="46" fill="#212529"/>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#ffffff">
+    <text x="85" y="354">Candy Name</text><text x="285" y="354">Description</text><text x="535" y="354">Price</text><text x="650" y="354">Quantity</text><text x="790" y="354">Action</text>
+  </g>
+  <rect x="60" y="371" width="880" height="58" fill="#ffffff"/>
+  <rect x="60" y="429" width="880" height="58" fill="#f1f3f5"/>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#212529">
+    <text x="85" y="406">Chocolate Bar</text><text x="285" y="406">Milk chocolate</text><text x="535" y="406">$12</text><text x="650" y="406">4</text>
+    <text x="85" y="464">Lollipop</text><text x="285" y="464">Fruit flavor</text><text x="535" y="464">$8</text><text x="650" y="464">5</text>
+  </g>
+  <rect x="790" y="390" width="90" height="28" rx="4" fill="#198754"/><text x="835" y="409" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">Buy</text>
+  <rect x="790" y="448" width="90" height="28" rx="4" fill="#198754"/><text x="835" y="467" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">Buy</text>
+</svg>
